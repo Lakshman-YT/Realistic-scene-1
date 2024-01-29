@@ -12,7 +12,7 @@ This project showcases a stunning and realistic scene created in the Godot 4 gam
 
 Watch a walkthrough and behind-the-scenes on our YouTube channel: [GW TUTS](https://www.youtube.com/@gwtuts4061)
 
-**YouTube Playlist:** [Complete tutorial for this project ](your_playlist_link)
+**YouTube Playlist:** [Complete tutorial for this project ](https://youtube.com/playlist?list=PLXOuFjRwH6NhxefQlrXjVOwsel1DospfT&si=T0-Z9CxilNRCrFJl)
 
 ## Scene Highlights
 
